@@ -1,2 +1,2 @@
 # python-basicsyntax
-In this repositroy I will just write random stuff and try and learn some python.
+In this repositroy I will just write random very basic codes and try and learn some python.
